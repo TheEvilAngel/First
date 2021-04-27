@@ -145,3 +145,5 @@ line-numbers 可以显示行号
    1. Ctrl + Shift + Alt + E 计算当前选中表达式, 用等号连接并输出
    2. Ctrl + Shift + Alt + R 计算当前选中表达式, 并替换当前选中表达式
    3. Ctrl + Shift + Alt + D 定义当前选中表达式, 无输出
+
+# new staff
